@@ -1,5 +1,5 @@
-![Imagem-Site_Cliente](https://github.com/user-attachments/assets/cb389225-60b3-4437-8323-9ac7fb410d4e)
 
+![Imagem-Site_Cliente](https://github.com/user-attachments/assets/cb389225-60b3-4437-8323-9ac7fb410d4e)
 
 # Template de Landing Page 
 
