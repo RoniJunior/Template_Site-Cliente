@@ -23,7 +23,7 @@ Você pode visualizar o site de exemplo no seguinte link:
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/SEU_USUARIO/Template_Site-Cliente.git
+   git clone https://github.com/RoniJunior/Template_Site-Cliente.git
    ```
 
 2. **Abra no seu editor de código favorito (VS Code, Sublime, etc.).**
